@@ -1,2 +1,3 @@
 # project_demo
-I developed this website using front-end and back-end languages
+I developed this website using front-end and back-end languages.
+Author : supriya bhosale.
